@@ -1,2 +1,0 @@
-# VAII_semestralka
-svet

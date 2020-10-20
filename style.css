@@ -1,0 +1,23 @@
+#logo {
+    mix-blend-mode: multiply;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 8px 4px;
+}
+.column {
+    flex: 50%;
+    padding: 0 4px;
+}
+
+.clanok {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.searchTlacidlo {
+    color: red;
+}
