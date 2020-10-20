@@ -1,5 +1,6 @@
 #logo {
     mix-blend-mode: multiply;
+    width: 60px;
 }
 .row {
     display: flex;
@@ -12,12 +13,15 @@
 }
 
 .clanok {
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin: auto;
 }
 
 .searchTlacidlo {
     color: red;
+}
+
+.novinkySlide {
+    margin: auto;
+    width: 60%;
+    height: 20%;
 }
