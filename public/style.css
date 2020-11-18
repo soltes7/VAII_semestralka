@@ -22,6 +22,20 @@
 
 .novinkySlide {
     margin: auto;
-    width: 60%;
-    height: 20%;
+    width: 90%;
 }
+#pridajClanok{
+    margin:auto;
+}
+
+.pataClanku {
+    margin-top: 10px;
+    margin-bottom: -20px;
+    font-size: 11px;
+    color: dimgrey;
+}
+
+#titulnaFoto {
+    max-width: 70%;
+}
+
