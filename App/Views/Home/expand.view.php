@@ -7,7 +7,7 @@ $article = $data['article'];
     <div class="row">
         <div class="col">
             <div class="jumbotron">
-                <a class="btn btn-primary btn-lg" href="?c=home" role="button">Back</a>
+                <a class="btn btn-primary btn-lg" href="?c=home" role="button">Späť</a>
                 <h1 class="display-4"><?= $article->getTitle() ?></h1>
                 <div class="row">
                     <div class="column">
